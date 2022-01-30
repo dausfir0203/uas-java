@@ -1,4 +1,4 @@
-package com.informatika19100070.MNOERAFDHOL_19100070_DAFTARINFAK
+package com.informatika19100062.firdaus_19100062_memo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.informatika19100070.MNOERAFDHOL_19100070_DAFTARINFAK", appContext.packageName)
+        assertEquals("com.informatika19100062.firdaus_19100062_memo", appContext.packageName)
     }
 }
